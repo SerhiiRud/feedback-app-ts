@@ -37,7 +37,7 @@ function App() {
   };
   return (
     <VidgetContainer>
-      <Header>Please leave feedback</Header>
+      <Header>Please leave feedback:</Header>
       <Section>
         <FeedbackOptions options={options} onLeaveFeedback={onLeaveFeedback} />
       </Section>
