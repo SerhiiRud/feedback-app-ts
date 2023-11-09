@@ -1,7 +1,8 @@
 {
-  "name": "my-app",
+  "name": "my-feedback-app-ts",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://SerhiiRud.github.io/feedback-app-ts/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@testing-library/jest-dom": "^5.17.0",
